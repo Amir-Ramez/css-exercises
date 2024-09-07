@@ -1,4 +1,9 @@
 .odd {
-   background-color: rgb(247, 167, 167) ;
-   font-family: Verdana, "DejaVu Sans" , sans-serif;
+   background-color: rgb(247, 167, 167);
+   font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.second {
+   color: rgb(34, 19, 167);
+   font-size: 36px;
 }
